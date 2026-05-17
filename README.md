@@ -79,8 +79,11 @@ KSI-Toronto-Collision-Analysis/
 │   └── 04_environmental_road_conditions.png
 │
 ├── data/
-│   └── .gitkeep
+│   └── README.md
 │
+├── .gitignore
+├── LICENSE
+├── model_card.md
 ├── README.md
 └── requirements.txt
 ```
